@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/NAM_3/HK2/LapTrinhDiDong/Tuan07/PhanThanhSang19110276/app/src/main/res/drawable/round_button.xml" value="0.22" />
+        <entry key="..\:/NAM_3/HK2/LapTrinhDiDong/Tuan07/PhanThanhSang19110276/app/src/main/res/drawable/takePicbutton.xml" value="0.22" />
+        <entry key="..\:/NAM_3/HK2/LapTrinhDiDong/Tuan07/PhanThanhSang19110276/app/src/main/res/drawable/takepic_button.xml" value="0.1325" />
         <entry key="..\:/NAM_3/HK2/LapTrinhDiDong/Tuan07/PhanThanhSang19110276/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/NAM_3/HK2/LapTrinhDiDong/Tuan07/PhanThanhSang19110276/app/src/main/res/layout/activity_second.xml" value="0.264" />
       </map>
     </option>
   </component>
